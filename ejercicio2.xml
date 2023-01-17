@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- control + A seleccionar todo -->
+<!-- alt + shift + f tabular todo -->
+<!-- control + ç comentar -->
+
+<!-- Personas que constituyen un colegio, 
+    tenemos un alumno con un nombre y que cursa 
+    dos tipos de asignaturas, un profesor y un director. -->
+
+    <!-- un fichero xml lleva un elemento raiz -->
+
+<persona>
+    <alumno>
+        <nombre>Jose Menendez</nombre>
+        <asignatura>
+            <programacion>LM</programacion>
+            <ofimatica>Excel Avanzado</ofimatica>
+        </asignatura>
+    </alumno>
+
+    <profesor>Maria Rodriguez</profesor>
+
+    <director>Pedro Perez</director>
+</persona>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fichero>
+    <equipo id="1">
+        <nombreEquipo>hola</nombreEquipo>
+        <comentarios>hola</comentarios>
+        <fecha>Thu Apr 23 17:58:30 CEST 2020</fecha>
+    </equipo>
+    <equipo id="2">
+        <nombreEquipo>prueba</nombreEquipo>
+        <comentarios>probando</comentarios>
+        <fecha>Thu Apr 23 17:58:43 CEST 2020</fecha>
+    </equipo>
+    <equipo id="3">
+        <nombreEquipo>jose</nombreEquipo>
+        <comentarios>joseManuel</comentarios>
+        <fecha>Tue Apr 28 20:01:50 CEST 2020</fecha>
+    </equipo>
+    <equipo id="4">
+        <nombreEquipo>Jorge</nombreEquipo>
+        <comentarios>junior</comentarios>
+        <fecha>Tue Apr 28 20:02:15 CEST 2020</fecha>
+    </equipo>
+    <equipo id="5">
+        <nombreEquipo>Angel</nombreEquipo>
+        <comentarios>gonzalez</comentarios>
+        <fecha>Tue Apr 28 20:02:37 CEST 2020</fecha>
+    </equipo>
+    <equipo id="6">
+        <nombreEquipo>Arturo</nombreEquipo>
+        <comentarios>Martinez</comentarios>
+        <fecha>Tue Apr 28 20:02:58 CEST 2020</fecha>
+    </equipo>
+    <equipo id="7">
+        <nombreEquipo>Maria</nombreEquipo>
+        <comentarios>Gutierres</comentarios>
+        <fecha>Tue Apr 28 20:03:31 CEST 2020</fecha>
+    </equipo>
+    <equipo id="8">
+        <nombreEquipo>fdddddd</nombreEquipo>
+        <comentarios>ddddddd</comentarios>
+        <fecha>Wed Apr 29 15:36:43 CEST 2020</fecha>
+    </equipo>
+</fichero>

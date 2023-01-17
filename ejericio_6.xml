@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<animales>
+
+
+    <cuadrupedo>
+        <herbivoros>
+            <comida>PLantas</comida>
+            <ejemplo>Vaca</ejemplo>
+        </herbivoros>
+
+        <ovniboros>
+            <comida>Carne y PLantas</comida>
+            <ejemplo>Zorro</ejemplo>
+        </ovniboros>
+
+        <carniboros>
+            <comida>Carne</comida>
+            <ejemplo>Leon</ejemplo>
+        </carniboros>
+    </cuadrupedo>
+</animales>

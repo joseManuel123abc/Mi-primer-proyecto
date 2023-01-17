@@ -1,0 +1,9 @@
+<saludo>
+
+    <!-- Estamos escribiendo un saludo  -->
+    
+    <persona> Nelson </persona>
+    <frase>Hola mundo</frase>
+     
+    <frase>Como estas</frase>
+</saludo>

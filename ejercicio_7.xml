@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ciudades>
+
+    <!-- ciudad 1 -->
+    <ciudad continente = "Asia">
+        <nombre>Nueva Delhi</nombre>
+        <pais>India</pais>
+    </ciudad>
+
+    <!-- ciudad 2 -->
+    <ciudad continente = "Europa">
+        <nombre>Lisboa</nombre>
+        <pais>Portugal</pais>
+    </ciudad>
+
+    <!-- ciudad 3 -->
+    <ciudad continente="Africa">
+        <nombre>El Cairo</nombre>
+        <pais>Egipto</pais>
+    </ciudad>
+
+</ciudades>
