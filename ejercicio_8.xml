@@ -28,4 +28,14 @@
         </apellidos>
         <nif>111111111A</nif>
     </cliente>
+
+     <!-- cliente 2 -->
+     <cliente>
+        <nombre>Pablo</nombre>
+        <apellidos>
+            <apellido1>Quevedo</apellido1>
+            <apellido2/>
+        </apellidos>
+        <nif>111111111A</nif>
+    </cliente>
 </clientes>
